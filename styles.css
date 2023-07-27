@@ -134,9 +134,10 @@
     text-decoration: none;
     color: var(--black);
     font-weight: bold;
-    /* margin-bottom: 24px; */
+    margin-bottom: 24px; 
   }
   .mobile-menu ul {
+    background-color: var(--white);
     padding: 0;
     margin: 24px 0 0;
     list-style: none;
@@ -145,6 +146,7 @@
     border-bottom: 1px solid var(--very-light-pink);
   }
   .mobile-menu ul li {
+    background-color: var(--white);
     margin-bottom: 24px;
   }
   .email {
